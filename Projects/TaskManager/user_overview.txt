@@ -1,0 +1,8 @@
+Total number of users: 1
+Total number of tasks: 2
+
+admin
+Number of tasks assigned to user: 2
+Percentage of total tasks assigned to user: 100.00%
+Percentage of assigned tasks completed: 50.00%
+Percentage of assigned tasks not completed: 50.0%
